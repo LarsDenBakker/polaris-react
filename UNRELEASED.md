@@ -30,5 +30,6 @@
 - Converted `Tooltip` into a functional component ([#2543](https://github.com/Shopify/polaris-react/pull/2543))
 - Converted `Option` into a functional component ([#2541](https://github.com/Shopify/polaris-react/pull/2541))
 - Converted `MenuGroup` into a functional component ([#2536](https://github.com/Shopify/polaris-react/pull/2536))
+- Converted `Layout` into a functional component ([#2538](https://github.com/Shopify/polaris-react/pull/2538))
 
 ### Deprecations
