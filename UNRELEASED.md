@@ -36,5 +36,6 @@
 - Converted `Option` into a functional component ([#2541](https://github.com/Shopify/polaris-react/pull/2541))
 - Converted `MenuGroup` into a functional component ([#2536](https://github.com/Shopify/polaris-react/pull/2536))
 - Converted `Layout` into a functional component ([#2538](https://github.com/Shopify/polaris-react/pull/2538))
+- Avoided unneeded work in `TextField` if character count is not rendered ([#2598](https://github.com/Shopify/polaris-react/pull/2598))
 
 ### Deprecations
