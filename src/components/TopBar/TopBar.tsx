@@ -105,7 +105,7 @@ export const TopBar: React.FunctionComponent<TopBarProps> & {
         {contextControl}
       </div>
     );
-  } else if (logo) {
+  } else if (logo && !unstableGlobalTheming) {
     contextMarkup = (
       <div className={styles.LogoContainer}>
         <UnstyledLink
